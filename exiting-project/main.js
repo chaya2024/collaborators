@@ -1,1 +1,0 @@
-alert("good luck! from main")
