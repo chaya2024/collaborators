@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 1234
 
 
 app.get('/', (req,res)=>{
-    console.log("hellow!")
+    console.log("hellow!!")
 })
 
 app.listen(PORT, ()=>{
